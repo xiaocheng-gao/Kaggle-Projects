@@ -1,2 +1,2 @@
-# Kaggle-Projects
-Projects created for Kaggle competition
+# Titanic Survivor Prediction
+Titanic project created for Kaggle competition
